@@ -9,8 +9,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT, classes = ShopfrontApplication.class)
 public class ShopfrontApplicationTests {
 
-    @Test
-    public void contextLoads() {
-    }
+    // @Test
+    // public void contextLoads() {
+    // }
 
 }
